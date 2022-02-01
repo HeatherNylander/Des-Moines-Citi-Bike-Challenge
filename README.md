@@ -12,9 +12,8 @@ Analysis done to convince investors that a bike-sharing program in Des Moines is
  
 | Customer Story from Tableau  | Analysis |
 | ------------- | ------------- |
-| <img src="https://github.com/HeatherNylander/Des-Moines-Citi-Bike-Challenge/blob/main/Resources/CustomerStats.png" width="450" height="600">  | Content Cellhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh <br /> idiuewiufhewiu <br /> iewfjhieoiewhj  |
+| <img src="" width="450" height="600">  | Content Cellhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh <br /> idiuewiufhewiu <br /> iewfjhieoiewhj  |
 
-![](Resources/CustomerStats.png)
 #### Trip Duration
 ![Trip Duration](Resources/TripDuration.png)
 
