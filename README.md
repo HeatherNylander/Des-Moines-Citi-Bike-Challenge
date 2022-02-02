@@ -40,7 +40,7 @@ Analysis done to convince investors that a bike-sharing program in Des Moines is
 - Most users ride for less than an hour with an exception of users who opt for multiple day usage. 
 - Both a breakdown of individual bike usage by sheer number of users and actual time spent checked out is shown. 
     - To determine how often bikes should be inspected, I reccomend opting for the time spent checked out graph as it considers actual bike usage instead of quantity of users. 
-<br />
+
 - For further analysis, I reccomend a visualization showing location of bikes that see the highest time usage. 
     - This may be helpful to determine if a routine rotation of bikes should occur between more and less busy locations. 
 - Another visualization to add would be average distance per bike usage to determine how bikes are being used (to get to work vs. to see tourest attractions etc.)
